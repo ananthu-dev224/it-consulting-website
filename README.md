@@ -1,8 +1,7 @@
-# React + Vite
+--- IT Consulting Firm Single Page Responsive Website ---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Built using React.js and Tailwind CSS for styling
+* Framer Motion for Animations and Visual Appeal
+* Google Sheets API for dynamic data displaying from google sheets
+* Deployed in Vercel
+* Live on : 
